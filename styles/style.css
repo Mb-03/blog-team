@@ -41,3 +41,23 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Code */
+
+
+@font-face {
+    font-family: "LexendDeca";
+    src: url("../assets/fonts/LexendDeca.ttf");
+}
+
+
+body {
+    font-family: "LexendDeca", sans-serif;
+
+}
